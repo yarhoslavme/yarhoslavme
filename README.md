@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hey 👋🏻,
-
 Full-Stack Developer: Java, C/C++, C#, JavaScript, Python, SQL, DotNet. Machine Learning passionate.
 
 ## 📬 Get in touch
