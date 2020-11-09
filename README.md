@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hey 👋🏻,
 
-Full-Stack Developer: Java, C#, JavaScript, Python, SQL, DotNet. Machine Learning passionate.
+Full-Stack Developer: Java, C/C++, C#, JavaScript, Python, SQL, DotNet. Machine Learning passionate.
 
 ## 📬 Get in touch
 
