@@ -21,11 +21,9 @@ Full-Stack Developer: Java, C/C++, C#, JavaScript, Python, SQL, DotNet. Machine 
 
 ## 📬 Get in touch
 
-- Web: [yarhoslav.me][1]
-- LinkedIn: [https://www.linkedin.com/in/yarhoslavme/][2]
-- Twitter: [twitter.com/yarhoslavme][3]
-
-This is the very first commit
+- Web: [yarhoslav.me]
+- LinkedIn: [https://www.linkedin.com/in/yarhoslavme/]
+- Twitter: [https://twitter.com/YarhoslavME]
 
 ## 📕 Latest Blog Posts
 
