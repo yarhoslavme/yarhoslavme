@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hey 👋🏻,
+
+Full-Stack Developer: Java, C#, JavaScript, Python, SQL, DotNet. Machine Learning passionate.
+
+## 📬 Get in touch
+
+- Web: [yarhoslav.me][1]
+- LinkedIn: [https://www.linkedin.com/in/yarhoslavme/][2]
+- Twitter: [twitter.com/yarhoslavme][3]
+
+This is the very first commit
+
+## 📕 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/yarhoslavme/yarhoslavme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yarhoslavme&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/yarhoslavme/yarhoslavme">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yarhoslavme&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Yarhoslav's GitHub Stats" />
+</a>
